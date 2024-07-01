@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "date": "2023-08-11T20:10:50",
+        "tempreture": "-5",
+        "weather": "Clouds",
+        "comment": "Was cloudy in the morning",
+        "author": {
+            "id": 1,
+            "name": "Васильев Петр Петрович"
+        }
+    },
+    {
+        "id": 2,
+        "date": "2024-08-12T00:20:30",
+        "tempreture": "-3",
+        "weather": "Sunny",
+        "comment": "Was sunny in the evening",
+        "author": {
+            "id": 2,
+            "name": "Александров Александр Александрович"
+        }
+    },
+    {
+        "id": 3,
+        "date": "2025-08-13T00:00:00",
+        "tempreture": "-1",
+        "weather": "Rainy",
+        "comment": "Was rainy in the morning",
+        "author": {
+            "id": 3,
+            "name": "Пушкин Александр Сергеевич"
+        }
+    }
+]
